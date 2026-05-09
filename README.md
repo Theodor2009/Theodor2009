@@ -4,10 +4,10 @@ OI ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programador iniciante java e python
 -----------------------------------
 
-Olá! Sou o Rotchild. Atualmente estou mergulhando no mundo do desenvolvimento backend. Minha jornada começou com a curiosidade de entender como os sistemas funcionam por baixo do capô. Hoje, foco em construir aplicações robustas com Java e scripts inteligentes com Python. Estou sempre em busca de aprender novas tecnologias e contribuir em projetos de código aberto.
-
-* 🌍  Eu estou morando no Brasil
-* ✉️  Você pode me contactar em [rotchildjolibois2009@gmail.com](mailto:rotchildjolibois2009@gmail.com)
+🚀 Rotchil | 15 anos | SC | Futuro Full-Stack Developer
+Apaixonado por transformar linhas de código em aplicações completas, rápidas e fluidas. Acredito que a tecnologia deve ser útil e visualmente impecável.
+Tem um desafio pra mim ou quer colaborar em algo grande? Me chama no e-mail!
+📩 E-mail: [rotchildjolibois2009@gmail.com](mailto:rotchildjolibois2009@gmail.com)
 * 🧠  Eu estou atualmente estudando no 2° do ensino medio e faço curso de Desenvolvimento de sistemas do SENAI
 
   
