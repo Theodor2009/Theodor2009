@@ -4,12 +4,12 @@ OI ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programador iniciante java e python
 -----------------------------------
 
-🚀 Rotchil | 15 anos | SC | Futuro Full-Stack Developer
+🚀 Rotchild || 15 anos || SC || Futuro Back-End Developer
 Apaixonado por transformar linhas de código em aplicações completas, rápidas e fluidas. Acredito que a tecnologia deve ser útil e visualmente impecável.
 Tem um desafio pra mim ou quer colaborar em algo grande? Me chama no e-mail!
-📩 E-mail: [rotchildjolibois2009@gmail.com](mailto:rotchildjolibois2009@gmail.com)
-* 🧠  Eu estou atualmente estudando no 2° do ensino medio e faço curso de Desenvolvimento de sistemas do SENAI
 
+* 📩 E-mail: [rotchildjolibois2009@gmail.com](mailto:rotchildjolibois2009@gmail.com)
+* 🧠  Eu estou atualmente estudando no 2° do ensino medio e faço curso de Desenvolvimento de sistemas do SENAI
   
 ### Linguagens que eu estou aprendendo 
 
