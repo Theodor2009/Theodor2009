@@ -1,8 +1,11 @@
 OI ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é ROTCHILD JOLIBOIS
-==========================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 Programador iniciante java e python
 -----------------------------------
+
 
 🚀 Rotchild || 15 anos || SC || Futuro Back-End Developer
 Apaixonado por transformar linhas de código em aplicações completas, rápidas e fluidas. Acredito que a tecnologia deve ser útil e visualmente impecável.
