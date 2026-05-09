@@ -12,11 +12,14 @@ Tem um desafio pra mim ou quer colaborar em algo grande? Me chama no e-mail!
 * 🧠  Eu estou atualmente estudando no 2° do ensino medio e faço curso de Desenvolvimento de sistemas do SENAI
   
 ### Linguagens que eu estou aprendendo 
+-----------------------------------
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
 </p>
 
 ### Redes sociais
+-----------------------------------
 
 <p align="left"> <a href="https://www.github.com/Theodor2009" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
